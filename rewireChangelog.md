@@ -41,16 +41,16 @@ Here is the list of seettings you will be able to change:
 
 <details>
   <summary>
-    ▶ So, what are these new settings?
+    ▶ <h5>So, what are these new settings?</h5>
   </summary>
   <br>
-  **Write your own cards** - Let you type your own response to a question<br>
-  **Cards in hand** - The amount of cards you get to choose from<br>
-  **Shuffles** - How many times a player can get rid of all of their cards and get new ones<br>
-  **Maximum players in a game** - Limits how many people can join your game<br>
-  **Blacklist / Whitelist** - Lets specific people play only, or doesn't allow certain people to play<br>
-  **Anonymous mode** - Hides the winner of each round, and doesn't show the leaderboard until the end<br>
-  **AI Training** - Allows us to look at the winners of each game to train a bot to play
+  <b>Write your own cards</b> - Let you type your own response to a question<br>
+  <b>Cards in hand</b> - The amount of cards you get to choose from<br>
+  <b>Shuffles</b> - How many times a player can get rid of all of their cards and get new ones<br>
+  <b>Maximum players in a game</b> - Limits how many people can join your game<br>
+  <b>Blacklist / Whitelist</b> - Lets specific people play only, or doesn't allow certain people to play<br>
+  <b>Anonymous mode</b> - Hides the winner of each round, and doesn't show the leaderboard until the end<br>
+  <b>AI Training</b> - Allows us to look at the winners of each game to train a bot to play
 </details>
 
 ---
