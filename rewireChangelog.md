@@ -3,14 +3,14 @@
 
 So this update will be including a lot of new features, lets go through each one...
 
----
+<hr>
 
 > **Firstly...** 
 > ====
 > Most of the bot code has been redone in order to make it faster and to make way for new features.
 > Because of this, there may be bugs. If you find one, just report it to us in the [support server](https://discord.gg/bPaNnxe).
 
----
+<hr>
 
 > **Game setup** 
 > ====
@@ -53,20 +53,7 @@ Here is the list of seettings you will be able to change:
   <b>AI Training</b> - Allows us to look at the winners of each game to train a bot to play
 </details>
 
----
-
-> **Custom decks** 
-> ====
-> Of course every server has its own set of inside jokes. Maybe Chizel is small and you want that to be a card.
-> Well, we're working on that.
-
-Everyone wants to make their own decks, so that is now possible.
-
-By using Connect My Pairs, you can create *2* of your very own decks complete with both question and answer cards.
-
-You can set your decks to be public, unlisted or private. Private decks can by used in a game you start, and unlisted ones can be used by anyone, if they know the code.
-
----
+<hr>
 
 > **Games** 
 > ====
@@ -85,7 +72,7 @@ These new messages are going to complete with fancy new GIFs to add to the games
   <code>✅</code> TheCodedProf<br>
 </details>
 
----
+<hr>
 
 
 > **Family Friendly** 
@@ -97,4 +84,19 @@ Server owners can decide if swear words are allowed or not. All NSFW cards are b
 #### NSFW channels
 All cards are allowed.
 
----
+<hr>
+
+# Planned features...
+
+> **Custom decks** 
+> ====
+> Of course every server has its own set of inside jokes. Maybe Chizel is small and you want that to be a card.
+> Well, we're working on that.
+
+Everyone wants to make their own decks, so that is now possible.
+
+By using Connect My Pairs, you can create *2* of your very own decks complete with both question and answer cards.
+
+You can set your decks to be public, unlisted or private. Private decks can by used in a game you start, and unlisted ones can be used by anyone, if they know the code.
+
+<hr>
