@@ -46,7 +46,7 @@ Here is the list of seettings you will be able to change:
   <br>
   <b>Write your own cards</b> - Let you type your own response to a question<br>
   <b>Cards in hand</b> - The amount of cards you get to choose from<br>
-  <b>Shuffles</b> - How many times a player can get rid of all of their cards and get new ones<br>
+  <b>Shuffles</b> - How many times a player can get rid of all of their cards and get new ones. In a game, you can type <code>$shuffle</code><br>
   <b>Maximum players in a game</b> - Limits how many people can join your game<br>
   <b>Blacklist / Whitelist</b> - Lets specific people play only, or doesn't allow certain people to play<br>
   <b>Anonymous mode</b> - Hides the winner of each round, and doesn't show the leaderboard until the end<br>
@@ -55,3 +55,15 @@ Here is the list of seettings you will be able to change:
 
 ---
 
+> **Custom decks** 
+> ====
+> Of course every server has its own set of inside jokes. Maybe Chizel is small and you want that to be a card.
+> Well, we're working on that.
+
+Everyone wants to make their own decks, so that is now possible.
+
+By using Connect My Pairs, you can create *2* of your very own decks complete with both question and answer cards.
+
+You can set your decks to be public, unlisted or private. Private decks can by used in a game you start, and unlisted ones can be used by anyone, if they know the code.
+
+---
