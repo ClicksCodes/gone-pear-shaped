@@ -83,6 +83,6 @@ These new messages are going to complete with fancy new GIFs to add to the games
   <code>✅</code> Pineapplefan<br>
   <code>❌</code> Minion3665<br>
   <code>✅</code> TheCodedProf<br>
-<details>
+</details>
 
 ---
