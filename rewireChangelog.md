@@ -2,24 +2,16 @@
 ##### *We rewired most of the bot.*
 
 So this update will be including a lot of new features, lets go through each one...
-
-
-
+<br><br><br>
 ---
-
-
-
+<br><br><br>
 > **Firstly...** 
 > ====
 > Most of the bot code has been redone in order to make it faster and to make way for new features.
 > Because of this, there may be bugs. If you find one, just report it to us in the [support server](https://discord.gg/bPaNnxe).
-
-
-
+<br><br><br>
 ---
-
-
-
+<br><br><br>
 > **Game setup** 
 > ====
 > We are adding a lot of settings. This means a better way of picking your game options was required. 
