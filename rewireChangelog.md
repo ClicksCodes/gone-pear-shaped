@@ -50,7 +50,7 @@ Here is the list of seettings you will be able to change:
   <b>Maximum players in a game</b> - Limits how many people can join your game<br>
   <b>Blacklist / Whitelist</b> - Lets specific people play only, or doesn't allow certain people to play<br>
   <b>Anonymous mode</b> - Hides the winner of each round, and doesn't show the leaderboard until the end<br>
-  <b>AI Training</b> - Allows us to look at the winners of each game to train a bot to play
+  <b>AI Training</b> - Allows us to look at the winners of each round to train a bot to play
 </details>
 
 <hr>
