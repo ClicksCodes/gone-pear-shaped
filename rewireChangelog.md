@@ -2,16 +2,16 @@
 ##### *We rewired most of the bot.*
 
 So this update will be including a lot of new features, lets go through each one...
-<br><br><br>
+
 ---
-<br><br><br>
+
 > **Firstly...** 
 > ====
 > Most of the bot code has been redone in order to make it faster and to make way for new features.
 > Because of this, there may be bugs. If you find one, just report it to us in the [support server](https://discord.gg/bPaNnxe).
-<br><br><br>
+
 ---
-<br><br><br>
+
 > **Game setup** 
 > ====
 > We are adding a lot of settings. This means a better way of picking your game options was required. 
@@ -41,15 +41,16 @@ Here is the list of seettings you will be able to change:
 
 <details>
   <summary>
-    So, what are these new settings?
+    ▶ So, what are these new settings?
   </summary>
-  Write your own cards - Let you type your own response to a question<br>
-  Cards in hand - The amount of cards you get to choose from<br>
-  Shuffles - How many times a player can get rid of all of their cards and get new ones<br>
-  Maximum players in a game - Limits how many people can join your game<br>
-  Blacklist / Whitelist - Lets specific people play only, or doesn't allow certain people to play<br>
-  Anonymous mode - Hides the winner of each round, and doesn't show the leaderboard until the end<br>
-  AI Training - Allows us to look at the winners of each game to train a bot to play
+  <br>
+  **Write your own cards** - Let you type your own response to a question<br>
+  **Cards in hand** - The amount of cards you get to choose from<br>
+  **Shuffles** - How many times a player can get rid of all of their cards and get new ones<br>
+  **Maximum players in a game** - Limits how many people can join your game<br>
+  **Blacklist / Whitelist** - Lets specific people play only, or doesn't allow certain people to play<br>
+  **Anonymous mode** - Hides the winner of each round, and doesn't show the leaderboard until the end<br>
+  **AI Training** - Allows us to look at the winners of each game to train a bot to play
 </details>
 
 ---
