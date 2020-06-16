@@ -86,3 +86,15 @@ These new messages are going to complete with fancy new GIFs to add to the games
 </details>
 
 ---
+
+
+> **Family Friendly** 
+> ====
+> Yes, this is an NSFW game, however we are adding clean card support.
+
+###### Standard channels
+Server owners can decide if swear words are allowed or not. All NSFW cards are banned in non NSFW channels in order to comply with Discord;s rules
+###### NSFW channels
+All cards are allowed.
+
+---
