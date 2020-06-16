@@ -41,7 +41,7 @@ Here is the list of seettings you will be able to change:
 
 <details>
   <summary>
-    ▶ <h5>So, what are these new settings?</h5>
+    <h5> ▶ So, what are these new settings?</h5>
   </summary>
   <br>
   <b>Write your own cards</b> - Let you type your own response to a question<br>
