@@ -41,7 +41,7 @@ Here is the list of seettings you will be able to change:
 
 <details>
   <summary>
-    <h5> ▶ So, what are these new settings?</h5>
+    <h4> ▶ So, what are these new settings?</h4>
   </summary>
   <br>
   <b>Write your own cards</b> - Let you type your own response to a question<br>
@@ -65,5 +65,24 @@ Everyone wants to make their own decks, so that is now possible.
 By using Connect My Pairs, you can create *2* of your very own decks complete with both question and answer cards.
 
 You can set your decks to be public, unlisted or private. Private decks can by used in a game you start, and unlisted ones can be used by anyone, if they know the code.
+
+---
+
+> **Games** 
+> ====
+> Who'd have thought that the most important thing on a game bot is the game itself.
+
+We are redoing how games look. Each round is going to be a message which gets edited as you go through the round.
+
+These new messages are going to complete with fancy new GIFs to add to the games themselves.
+
+<details>
+  <summary>
+    <h4> ▶ It's going to be easier to see who hasn't picked their cards with a much better visualisation.</h4>
+  </summary>
+  <code>✅</code> Pineapplefan<br>
+  <code>❌</code> Minion3665<br>
+  <code>✅</code> TheCodedProf<br>
+<details>
 
 ---
