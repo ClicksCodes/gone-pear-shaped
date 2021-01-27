@@ -41,7 +41,7 @@ class Game:
         self.hand_size = 10
         self.anon = False
         self.shuffles = 0
-        self.ai = self.lang == "gb"
+        self.ai = False #self.lang == "gb"
 
         self.coro = None
         self.skipping = False
