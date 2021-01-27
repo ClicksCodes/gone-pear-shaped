@@ -25,6 +25,7 @@ cogs = [
     "guildmanager.cog",
     "cogs.cah",
     "cogs.botlist",
+    "cogs.ping"
 ]
 
 prefixes = data.Json("prefixes")
