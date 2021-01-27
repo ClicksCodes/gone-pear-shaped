@@ -2,7 +2,6 @@ from quart import Quart
 from discord.ext import commands
 import discord
 import asyncio
-import bot as customBot
 
 class Ping(commands.Cog):
     def __init__(self, bot):
