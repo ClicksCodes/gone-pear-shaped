@@ -72,6 +72,8 @@ bot.skips = []
 
 bot.main_prefix = main_prefix
 
+bot.runningPing = False
+
 
 @bot.event
 async def on_ready():
